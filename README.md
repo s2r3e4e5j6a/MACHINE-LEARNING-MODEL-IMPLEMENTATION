@@ -18,4 +18,4 @@ This internship provided an excellent opportunity to bridge the gap between acad
 Overall, this experience strengthened my ability to work independently and collaboratively on technical projects, making it a significant step in my journey toward becoming a machine learning engineer.
 Applications like Image Classification,Natural Language Processing (NLP),Healthcare Predictions.
 
-*OUTPUT PICTURE*:
+*OUTPUT PICTURE*:![Image](https://github.com/user-attachments/assets/8d451322-aaeb-447c-848d-51b6e69bb4b8)
