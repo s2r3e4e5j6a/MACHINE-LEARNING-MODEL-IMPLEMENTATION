@@ -93,4 +93,6 @@ This project serves as a foundational example of how machine learning can be app
 
 ---
 
-*OUTPUT PICTURE*:![Image](https://github.com/user-attachments/assets/8d451322-aaeb-447c-848d-51b6e69bb4b8)
+*OUTPUT PICTURE*:
+
+![Image](https://github.com/user-attachments/assets/8d451322-aaeb-447c-848d-51b6e69bb4b8)
